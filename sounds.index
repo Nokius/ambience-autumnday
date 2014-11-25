@@ -1,0 +1,11 @@
+{
+    "translationCatalog" : "ambience-autumnday",
+    "files" : [
+        { "displayName" : "autumnday-ringtone"          , "fileName" : "autumnday_Ringtone.wav" },
+        { "displayName" : ""    , "fileName" : "" },
+        { "displayName" : ""    , "fileName" : "" },
+        { "displayName" : ""   	, "fileName" : "" },
+        { "displayName" : ""    , "fileName" : "" },
+        { "displayName" : ""	, "fileName" : "" }
+    ]
+}
